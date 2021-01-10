@@ -10,8 +10,8 @@ Source Code Pro 字体的获取：[Source Code Pro Latest] 页面下载最新版
 
     # mkdir /usr/share/fonts/myfonts/
 
-    # git clone https://github.com/ueaner/fonts
-    # cp *.ttf /usr/share/fonts/myfonts/
+    # git clone https://github.com/donghaichuan/monaco_fonts.git
+    # cp monaco_fonts/*.ttf /usr/share/fonts/myfonts/
 
     # cd /usr/share/fonts/myfonts/
     # mkfontscale
