@@ -13,9 +13,6 @@ Source Code Pro 字体的获取：[Source Code Pro Latest] 页面下载最新版
     # git clone https://github.com/ueaner/fonts
     # cp *.ttf /usr/share/fonts/myfonts/
 
-    # tar xf source-code-pro-xxx.tar.gz
-    # cp source-code-pro-xxx/TTF/*.otf /usr/share/fonts/myfonts/
-
     # cd /usr/share/fonts/myfonts/
     # mkfontscale
     # mkfontdir
